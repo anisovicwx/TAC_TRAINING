@@ -5,4 +5,5 @@
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_f5ioQrwrEe2vbMjRwl8Isg" login="admin@company.com" firstName="admin" lastName="admin" type="DQ" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_iciJcLwrEe2vbMjRwl8Isg" login="dev1@company.com" firstName="dev1" lastName="dev1" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_6TJa67wrEe2vbMjRwl8Isg" login="exp2@company.com" firstName="exp2" lastName="exp2" type="DQ" additionnalData="{}"/>
 </xmi:XMI>
